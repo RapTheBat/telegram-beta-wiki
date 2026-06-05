@@ -4,4 +4,4 @@
 
 # 21 мая
 
-Был передан @lololollol (ранее @glebxdlol или же id 5000433476 ник Глеб) и surge (id 2200469554)
+Был передан @lololollol (ранее @glebxdlol или же id 5000433476 ник Глеб) и [surge](https://github.com/glebxdlolreal/telegram-beta-wiki/blob/main/surge.md) (id 2200469554)
