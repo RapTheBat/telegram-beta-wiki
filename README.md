@@ -1,4 +1,4 @@
-# Telegram Test Server Wiki
+# Telegram Beta Wiki
 
 # Участники
 
