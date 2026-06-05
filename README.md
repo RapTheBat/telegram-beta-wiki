@@ -1,5 +1,4 @@
-# Telegram Beta Wiki
-ето говно\
+# Telegram Test Server Wiki
 
 # Участники
 
