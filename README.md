@@ -1,8 +1,7 @@
-# Telegram Beta Wiki
-ето говно\
+# Telegram Test Server Wiki
 
 # Участники
 
-* **strokegmd** - строк
+* **strokegmd** - [строк](https://github.com/strokegmd/telegram-beta-wiki/blob/main/strok.md)
 
 * **RapTheBat** - киптер
