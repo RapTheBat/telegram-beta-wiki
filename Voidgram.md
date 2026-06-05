@@ -1,10 +1,13 @@
-# Voidgram
-**Voidgram** — это MyTelegram-based (клон Telegram) мессенджер, разработанный DNR SECRET LAB. 
+# Voidgram 
+
+###### ранее Strokegram
+
+**Voidgram** — это MyTelegram-based (клон Telegram) мессенджер, разработанный [DNR SECRET LAB](https://github.com/glebxdlolreal/telegram-beta-wiki/blob/main/DNR%20SECRET%20LAB.md). 
 
 Его главными фишками стало то, что переоткрывался он примерно 10 раз, а так же в нём была (и есть) возможность улучшать подарки внутри практически бесплатно.
 
 # Как туда попасть?
-Нужно получить номер в боте <a href="https://t.me/VoidgramAuthBot">@VoidgramAuthBot</a> (в обычном тг) и скачать клиент из <a href="https://t.me/VoidgramTips">@VoidgramTips</a> (так же в обычном тг).
+Нужно получить номер в боте [@VoidgramAuthBot](https://t.me/VoidgramAuthBot) (в обычном тг) и скачать клиент из [@VoidgramTips](https://t.me/VoidgramTips) (так же в обычном тг).
 
 # История
 **Август 2024**
