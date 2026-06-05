@@ -1,4 +1,4 @@
-### Testcoin
+# Testcoin
 
 **Testcoin** (он же ***Тесткоин***) — жалкая попытка DNR SECRET LAB создать свою криптовалюту.
 
