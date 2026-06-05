@@ -2,7 +2,7 @@
 
 ###### ранее Strokegram
 
-**Voidgram** — это MyTelegram-based (клон Telegram) мессенджер, разработанный [DNR SECRET LAB](https://github.com/glebxdlolreal/telegram-beta-wiki/blob/main/DNR%20SECRET%20LAB.md). 
+**Voidgram** — это [MyTelegram-based](https://github.com/loyldg/mytelegram) (клон Telegram) мессенджер, разработанный [DNR SECRET LAB](https://github.com/strokegmd/telegram-beta-wiki/blob/main/DNR%20SECRET%20LAB.md). 
 
 Его главными фишками стало то, что переоткрывался он примерно 10 раз, а так же в нём была (и есть) возможность улучшать подарки внутри практически бесплатно.
 
@@ -18,7 +18,7 @@
 
 **Ноябрь-декабрь 2024**
 
-Тромб рассказывает строку про такой проект как MyTelegram, и спустя несколько дней мучений ему (вместе с дрессом) удаётся запустить его вместе с веб-клиентом.
+Тромб рассказывает строку про такой проект как [MyTelegram](https://github.com/loyldg/mytelegram), и спустя несколько дней мучений ему (вместе с дрессом) удаётся запустить его вместе с веб-клиентом.
 
 Позже были скомпилированы Desktop и Android клиенты.
 
