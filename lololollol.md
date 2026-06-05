@@ -1,3 +1,3 @@
 # lololollol
 
-###### Ранее [@glebxdlol](https://github.com/glebxdlolreal/telegram-beta-wiki/blob/main/glebxdlol.md)
+###### Ранее [@glebxdlol](https://github.com/strokegmd/telegram-beta-wiki/blob/main/glebxdlol.md)
