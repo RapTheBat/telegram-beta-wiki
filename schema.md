@@ -1,3 +1,3 @@
 # schema
 
-###### ранее [strokealt](https://github.com/glebxdlolreal/telegram-beta-wiki/blob/main/strokealt.md)
+###### ранее [strokealt](https://github.com/strokegmd/telegram-beta-wiki/blob/main/strokealt.md)
