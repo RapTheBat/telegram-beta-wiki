@@ -4,4 +4,4 @@
 
 # 21 мая
 
-Был передан [@lololollol](https://github.com/glebxdlolreal/telegram-beta-wiki/blob/main/lololollol.md) (ранее [@glebxdlol](https://github.com/glebxdlolreal/telegram-beta-wiki/blob/main/glebxdlol.md) или же id 5000433476 ник Глеб) и [surge](https://github.com/glebxdlolreal/telegram-beta-wiki/blob/main/surge.md) (id 2200469554)
+Был передан [@lololollol](https://github.com/strokegmd/telegram-beta-wiki/blob/main/lololollol.md) (ранее [@glebxdlol](https://github.com/strokegmd/telegram-beta-wiki/blob/main/glebxdlol.md) или же id 5000433476 ник Глеб) и [surge](https://github.com/strokegmd/telegram-beta-wiki/blob/main/surge.md) (id 2200469554)
