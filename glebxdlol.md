@@ -1,3 +1,3 @@
 # glebxdlol 
 
-###### На данный момент [@lololollol](https://github.com/glebxdlolreal/telegram-beta-wiki/blob/main/lololollol.md) 
+###### На данный момент [@lololollol](https://github.com/strokegmd/telegram-beta-wiki/blob/main/lololollol.md) 
