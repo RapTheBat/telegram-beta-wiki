@@ -1,0 +1,5 @@
+# Строк
+
+# strokealt
+
+# schema
