@@ -1,6 +1,6 @@
 # Voidgram 
 
-###### ранее [Strokegram](https://github.com/strokegmd/telegram-beta-wiki/blob/main/strokegram.md)
+###### ранее Strokegram
 
 **Voidgram** — это [MyTelegram-based](https://github.com/loyldg/mytelegram) (клон Telegram) мессенджер, разработанный [DNR SECRET LAB](https://github.com/strokegmd/telegram-beta-wiki/blob/main/DNR%20SECRET%20LAB.md). 
 
