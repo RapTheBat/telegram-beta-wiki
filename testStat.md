@@ -4,4 +4,4 @@
 
 # 21 мая
 
-Был передан [@lololollol](https://github.com/strokegmd/telegram-beta-wiki/blob/main/lololollol.md) и [surge](https://github.com/strokegmd/telegram-beta-wiki/blob/main/surge.md)
+Был передан [@lololollol](https://github.com/strokegmd/telegram-beta-wiki/blob/main/gleb.md) и [surge](https://github.com/strokegmd/telegram-beta-wiki/blob/main/surge.md)
